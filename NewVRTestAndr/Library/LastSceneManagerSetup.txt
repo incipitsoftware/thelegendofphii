@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Game/phii-wondervillage-1-game.unity
+  isLoaded: 1
+  isActive: 1
